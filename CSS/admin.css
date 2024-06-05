@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.hoang{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.aside{
+    width: 20%;
+    height:100vh !important;
+    background-color: rgb(67, 68, 69);
+    position: sticky;
+    top: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.aside h2{
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    font-size: 40px;
+    color: rgb(200, 219, 51);
+    box-shadow: 20px 5px 10px 5px (151, 94, 94);
+}
+
+.aside hr{
+    height: 3px;
+    width: 100%;
+    background-color: aliceblue;
+    margin: auto;
+}
+.admin{
+   width: 100%;
+   height: auto;
+}
+
+.admin li{
+    list-style: none;   
+}
+
+.admin a{
+    text-decoration: none;
+    display: block;
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(243, 243, 245);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 700;
+}
+.admin a:hover{
+    width: 100%;
+    background-color: rgb(151, 94, 94);
+    border-radius: 20px;
+}
+.add{
+    width: 100% ;
+    height: auto;
+}
+.add h3{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(107, 108, 109);
+}
+.add-1{
+    width: 100%;
+    padding: 15px;
+}
+.add-1 h4{
+    font-size: 25px;
+    color: rgb(146, 118, 118);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.add-1 input{
+    width: 60%;
+    height: 35px;
+    margin-top: 10px;
+    border: 2px solid rgb(133, 165, 137);
+}
+.add textarea{
+    border: 2px solid rgb(133, 165, 137);
+}
+.nut{
+    width: 70%;
+    height: auto;
+    margin-top: 20px;
+}
+.nut button{
+    width: 120px;
+    height: 40px;
+    margin-left: 20px;
+    background-color: rgb(231, 156, 115);
+    border: 1px solid rgb(169, 161, 141);
+    cursor: pointer;
+    color: brown;
+    color: aliceblue;
+    font-size: 18px;
+}
+.nut button:hover{
+    background-color: brown;
+}
+
+.list{
+    width: 100%;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-collapse: separate;
+}
+.list-1{
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    background-color:rgb(213, 136, 136);
+    font-size: 18px;
+    color: rgb(205, 216, 116);
+}
+.list tr td:nth-child(1){
+    width: 5%;
+    font-size: 18px;
+    border: 2px solid rgb(201, 175, 175);
+}
+.list tr td:nth-child(2){
+    width: 25%;
+    font-size: 18px;
+    border: 2px solid rgb(201, 175, 175);
+}
+.list tr td:nth-child(3){
+    width: 25%;
+    height: auto;
+    font-size: 18px;
+    border: 2px solid rgb(201, 175, 175);
+}
+.anhsp{
+    width: 70px;
+    height: 100px;
+}
+.list tr td:nth-child(4){
+    width: 20%;
+    font-size: 18px;
+    border: 2px solid rgb(201, 175, 175);
+}
+.list tr td:nth-child(5){
+    width: 25%;
+    border: 2px solid rgb(201, 175, 175);
+}
+.danhsach{
+    width: 90%;
+    height: 50px;
+    text-align: center;
+}
+.xoa{
+   padding: 10px 18px;
+   background-color: rgb(207, 56, 56);
+   cursor: pointer;
+   border: none;
+   font-size: 18px;
+    color: aliceblue;
+}
+
+.xoa:hover{
+    background-color: rgb(147, 19, 19);
+}
+.sua{
+    padding: 10px 18px;
+    background-color: rgb(68, 47, 230);
+    border: none;
+    font-size: 18px;
+    color: aliceblue;
+    cursor: pointer;
+}
+.sua:hover{
+    background-color: rgb(22, 22, 109);
+}

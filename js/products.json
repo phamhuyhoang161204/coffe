@@ -1,0 +1,209 @@
+{
+   "product": {
+      "mn1": {
+         "danhmuc":"mới nhất",
+         "name": "Rượu Tết Hòa Bình",
+         "price": "652,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/Hop-qua-tet-An-Khang-Kem-tui-QT110.jpg"
+      },
+      "mn2": {
+         "danhmuc":"mới nhất",
+         "name": "Giỏ Quà Tết Hương Xuân",
+         "price": "435,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2023/12/qua-tet-1.jpg"
+      },
+      "mn3": {
+         "danhmuc":"mới nhất",
+         "name": "Rượu Tết Vui Vẻ Hạnh",
+         "price": "753,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/gio-qua-tet-2.jpg"
+      },
+      "mn4": {
+         "danhmuc":"mới nhất",
+         "name": "Bao Lì Xì Tết Vui Vẻ May",
+         "price": "55,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/Y40VAhU.jpg"
+      },
+      "mn5": {
+         "danhmuc":"mới nhất",
+         "name": "Hộp Quà Tết Vạn Phúc",
+         "price": "55,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/KR20347.jpg"
+      },
+      "mn6": {
+         "danhmuc":"mới nhất",
+         "name": "Hộp Quà Tết Hương Xuân",
+         "price": "530,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/IMG_7927.jpg"
+      },
+      "mn7": {
+         "danhmuc":"mới nhất",
+         "name": "Hộp Quà Tết Phúc Lộc Thọ",
+         "price": "1,290,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/hopquatet6-1-2048x2048.jpg"
+      },
+      "mn8": {
+         "danhmuc":"mới nhất",
+         "name": "Mứt Tết Ngọt Lịm",
+         "price": "256,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/cac-loai-mut-tet-mien-tay-1.jpg"
+      },
+      "bc1": {
+         "danhmuc":"Bán chạy",
+          "name": "Mứt Tết Vị Hương Hoa",
+          "price": "321,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/1-mut-tet-1.jpg"
+       },
+       "bc2": {
+         "danhmuc":"Bán chạy",
+          "name": "Bộ Phụ Kiện Tết Sắc Xuân",
+          "price": "99,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/4b7da987a6eeee75273d0236256aa3db.jpg"
+       },
+       "bc3": {
+         "danhmuc":"Bán chạy",
+          "name": "Rượu Tết Quý Tộc",
+          "price": "852,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/gio-qua-tet-1-trieu-tro-len.jpg"
+       },
+       "bc4": {
+         "danhmuc":"Bán chạy",
+          "name": "Mứt Tết Vị Hương Hoa",
+          "price": "321,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/1-mut-tet-1.jpg"
+       },
+       "bc5": {
+         "danhmuc":"Bán chạy",
+          "name": "Mứt Tết Hương Vị Truyền Thống",
+          "price": "289,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/mt-16438823319581861222734-1.jpg"
+       },
+       "bc6": {
+         "danhmuc":"Bán chạy",
+          "name": "Giỏ Quà Tết Trọn Niềm Vui",
+          "price": "530,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/gio-qua-tet-y-nghia-danh-tang-khach-hang-san-xuat-tai-Bizgift-300x300.jpg"
+       },
+       "km1": {
+         "danhmuc":"Khuyến mãi",
+          "name": "Hộp Quà Tết Vạn Phúc",
+          "price": "620,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/KR20347.jpg"
+       },
+       "km2": {
+         "danhmuc":"Khuyến mãi",
+          "name": "Bao Lì Xì Tết Vui Vẻ ",
+          "price": "55,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/Y40VAhU.jpg"
+       },
+       "km3": {
+         "danhmuc":"Khuyến mãi",
+          "name": "Bánh Kẹo Tết Hạnh Phúc",
+          "price": "406,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/hop-banh-keo-tet-4-1048x800-1.jpeg"
+       },
+       "km4": {
+         "danhmuc":"Khuyến mãi",
+          "name": "Mứt Tết Ngọt Lịm",
+          "price": "256,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/cac-loai-mut-tet-mien-tay-1.jpg"
+       },
+       "km5": {
+         "danhmuc":"Khuyến mãi",
+          "name": "Bộ Phụ Kiện Tết Sang",
+          "price": "66,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/Bo%CC%A3%CC%82-5-phu%CC%A3-kie%CC%A3%CC%82n-trang-tri%CC%81-te%CC%82%CC%81t-Kim-lie%CC%82n-va%CC%A3n-phu%CC%81c-2.jpg"
+       },
+       "km6": {
+         "danhmuc":"Khuyến mãi",
+          "name": "Bộ Phụ Kiện Tết Sắc Xuân",
+          "price": "99,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/4b7da987a6eeee75273d0236256aa3db.jpg"
+       },
+       "km7": {
+         "danhmuc":"Khuyến mãi",
+        "name": "Hộp Quà Tết Hương Xuân",
+        "price": "530,000",
+        "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/IMG_7927.jpg"
+       },
+      "km8": {
+         "danhmuc":"Khuyến mãi",
+        "name": "Giỏ Quà Tết Hương Xuân",
+        "price": "435,000",
+        "url": "https://quatet.monamedia.net/wp-content/uploads/2023/12/qua-tet-1.jpg"
+      },
+      "product1": {
+         "danhmuc":"sản phẩm",
+         "name": "Bánh Kẹo Tết Hạnh Phúc",
+         "price": "406,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/hop-banh-keo-tet-4-1048x800-1-300x300.jpeg"
+      },
+      "product2": {
+         "danhmuc":"sản phẩm",
+         "name": "Bánh Kẹo Tết Hương...",
+         "price": "456,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/HUUNGHI_0877-300x300.jpg"
+      },
+      "product3": {
+         "danhmuc":"sản phẩm",
+         "name": "Bánh Kẹo Tết Hương Vị...",
+         "price": "336,000",
+         "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/hn69082-scaled-1-300x300.jpg"
+      },
+       "product4": {
+         "danhmuc":"sản phẩm",
+          "name": "Bao Lì Xì Tết Hạnh Phúc",
+          "price": "88,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/0e55420e49ef9f927e33e32adad44617.jpg"
+       },
+       "product5": {
+         "danhmuc":"sản phẩm",
+          "name": "Bộ Phụ Kiện Tết Sang",
+          "price": "66,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/Bo%CC%A3%CC%82-5-phu%CC%A3-kie%CC%A3%CC%82n-trang-tri%CC%81-te%CC%82%CC%81t-Kim-lie%CC%82n-va%CC%A3n-phu%CC%81c-2.jpg"
+       },
+       "product6": {
+         "danhmuc":"sản phẩm",
+          "name": "Rượu Tết Quý Tộc",
+          "price": "852,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/gio-qua-tet-1-trieu-tro-len.jpg"
+       },
+       "product7": {
+         "danhmuc":"sản phẩm",
+          "name": "Bao Lì Xì Tết Vui Vẻ",
+          "price": "55,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/Y40VAhU.jpg"
+       },
+       "product8": {
+         "danhmuc":"sản phẩm",
+        "name": "Mứt Tết Ngọt Lịm",
+        "price": "256,000",
+        "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/cac-loai-mut-tet-mien-tay-1.jpg"
+     },
+     "product9": {
+      "danhmuc":"sản phẩm",
+        "name": "Rượu Tết Hòa Bình",
+        "price": "652,000",
+        "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/Hop-qua-tet-An-Khang-Kem-tui-QT110.jpg"
+     },
+       "product10": {
+         "danhmuc":"sản phẩm",
+          "name": "Mứt Tết Hương Vị Truyền ...",
+          "price": "289,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/mt-16438823319581861222734-1.jpg"
+       },
+       "product11": {
+         "danhmuc":"sản phẩm",
+        "name": "Hộp Quà Tết Phúc Lộc Thọ",
+        "price": "1,290,000",
+        "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/hopquatet6-1-2048x2048.jpg"
+     },
+       "product12": {
+         "danhmuc":"sản phẩm",
+          "name": "Giỏ Quà Tết Trọn Niềm Vui",
+          "price": "530,000",
+          "url": "https://quatet.monamedia.net/wp-content/uploads/2019/05/gio-qua-tet-y-nghia-danh-tang-khach-hang-san-xuat-tai-Bizgift-300x300.jpg"
+       }
+   }
+}
+

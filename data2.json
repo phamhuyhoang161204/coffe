@@ -1,0 +1,12 @@
+{
+    "products":{
+        "bcbnm": {
+            "product_id": 1,
+            "name": "Categories-1",
+            "price": 300.000,
+            "image": "url",
+            "description": "Mô tả sản phẩm",
+            "category_id": 1
+        }
+    }
+  }

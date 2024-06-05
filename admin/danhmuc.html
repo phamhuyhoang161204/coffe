@@ -1,0 +1,61 @@
+<h3>Thêm mới loại hàng</h3>
+<button type="button" class="btn btn-success mt-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Thêm danh mục
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label for="category_name" class="form-label">Tên danh mục</label>
+                    <input type="text" class="form-control" id="category_name" aria-describedby="emailHelp">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Thoát</button>
+                <button id="add-category" type="button" class="btn btn-primary">Thêm</button>
+            </div>
+        </div>
+    </div>
+</div>
+<table style="margin-top: 0;" class="table">
+    <thead>
+        <tr>
+            <th scope="col">Mã danh mục</th>
+            <th scope="col">Tên danh mục</th>
+            <th scope="col">Handle</th>
+        </tr>
+    </thead>
+    <tbody>
+
+    </tbody>
+</table>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal-2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="category_id">
+                <div class="mb-3">
+                    <label for="category_name-2" class="form-label">Tên danh mục</label>
+                    <input type="text" class="form-control" id="category_name-2" aria-describedby="emailHelp">
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Thoát</button>
+                <button id="update-category" type="button" data-bs-dismiss="modal" class="btn btn-primary">Cập nhật</button>
+            </div>
+        </div>
+    </div>
+</div>

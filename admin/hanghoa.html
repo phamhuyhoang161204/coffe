@@ -1,0 +1,106 @@
+<h3>Thêm mới loại hàng</h3>
+<button type="button" class="btn btn-success mt-3" data-bs-toggle="modal" data-bs-target="#exampleModal">
+    Thêm danh mục
+</button>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div class="mb-3">
+                    <label for="product_name" class="form-label">Tên sản phẩm</label>
+                    <input type="text" class="form-control" id="product_name" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="price" class="form-label">Gía gốc</label>
+                    <input type="number" class="form-control" id="price" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="discount" class="form-label">Giảm giá</label>
+                    <input type="number" class="form-control" id="discount" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="image" class="form-label">Ảnh</label>
+                    <input type="text" class="form-control" id="image" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="description" class="form-label">Mô tả</label>
+                    <textarea class="form-control" name="" id="description" cols="30" rows="5"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="product_name" class="form-label">Tên danh mục</label>
+                    <select class="form-select" name="" id="select-c">
+                    </select>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Thoát</button>
+                <button id="add-product" type="button" class="btn btn-primary">Thêm</button>
+            </div>
+        </div>
+    </div>
+</div>
+<table style="margin-top: 0;" class="table">
+    <thead>
+        <tr>
+            <th scope="col">Mã sản phẩm</th>
+            <th scope="col">Tên sản phẩm</th>
+            <th scope="col">Hình ảnh</th>
+            <th scope="col">Gía gốc</th>
+            <th scope="col">Giảm giá</th>
+            <th scope="col">Giá mới</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        
+    </tbody>
+</table>
+
+<div class="modal fade" id="exampleModal-2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <input type="hidden" id="product_id">
+                <div class="mb-3">
+                    <label for="product_name-2" class="form-label">Tên sản phẩm</label>
+                    <input type="text" class="form-control" id="product_name-2" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="price-2" class="form-label">Gía gốc</label>
+                    <input type="number" class="form-control" id="price-2" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="discount-2" class="form-label">Giảm giá</label>
+                    <input type="number" class="form-control" id="discount-2" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="image-2" class="form-label">Ảnh</label>
+                    <input type="text" class="form-control" id="image-2" aria-describedby="emailHelp">
+                </div>
+                <div class="mb-3">
+                    <label for="description-2" class="form-label">Mô tả</label>
+                    <textarea class="form-control" name="" id="description-2" cols="30" rows="5"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="select-c-2" class="form-label">Tên danh mục</label>
+                    <select class="form-select" name="" id="select-c-2">
+                    </select>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Thoát</button>
+                <button id="update-product" type="button" data-bs-dismiss="modal" class="btn btn-primary">Cập nhật</button>
+            </div>
+        </div>
+    </div>
+</div>

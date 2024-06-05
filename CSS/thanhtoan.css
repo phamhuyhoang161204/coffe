@@ -1,0 +1,150 @@
+.pay{
+    width: 70%;
+    height: auto;
+    margin: auto;
+    background-color: rgb(252, 250, 248);
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.pay-1{
+    width: 60%;
+    height: 80vh !important;
+}
+.pay-hr{
+    width: 70%;
+    height: 4px;
+    margin: auto;
+    background-color: brown;
+}
+.pay h3{
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: brown;
+}
+.information{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.information-1{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+.information-1 h4{
+    font-size: 20px;
+}
+.information-1 input{
+    padding: 10px 40px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top: 10px;
+    border: none;
+    border: 2px solid rgb(131, 23, 23);
+}
+.information-1 input:hover{
+    border: none;
+    border: 2px solid rgb(222, 158, 31);
+}
+.information-2{
+    width: 100%;
+    height: auto;
+}
+.information-2 h4{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.information-2 input{
+    width: 90%;
+    height: 40px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-top: 10px;
+    border: none;
+    border: 2px solid rgb(131, 23, 23);
+    
+}
+.information-2 input:hover{
+    border: none;
+    border: 2px solid rgb(222, 158, 31);
+}
+.pay-2{
+    width: 35%;
+    height: auto;
+}
+.oder{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    padding-bottom: 20px;
+    border: 2px solid rgb(124, 38, 38);
+}
+.oder h4{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.oder-1{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+}
+.oder-2 th:nth-child(1){
+   width: 60%;
+   font-size: 20px;
+}
+.oder-2 th:nth-child(2){
+    width: 40%;
+    font-size: 20px;
+ }
+ .oder td:nth-child(1){
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px;
+    color: rgb(102, 98, 98);
+    text-align: start;
+ }
+ .oder td:nth-child(2){
+    font-size: 18px;
+    text-align: center;
+    color: brown;
+ }
+ .pt{
+    margin-left: 30px;
+}
+.pt label{
+    font-size: 20px;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+
+.pt input[type="radio"] {
+    margin-right: 10px; 
+    margin-top: 20px;
+}
+.dat{
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    background-color: #f1bc1c;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    font-weight: 600;
+    cursor: pointer;
+    margin-left: 20px;
+    transition: all ease 0.5s;
+}
+.dat:hover{
+    transform: scale(0.7);
+    background-color: #ae8918;
+}
